@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "asset_type": "connection",
+    "name": "Amazon Redshift Test connection platform (shared)",
+    "origin_country": "us",
+    "rov": {
+      "mode": 0
+    },
+    "created_at": "2021-07-27T06:08:33Z",
+    "created": 1627366113246,
+    "asset_id": "connection.AmazonRedshiftTestconnectionplatformshared",
+    "asset_attributes": [
+      "connection"
+    ]
+  },
+  "entity": {
+    "connection": {
+      "datasource_type": "31170994-f54c-4148-9c5a-807832fa1d07",
+      "context": "source,target",
+      "flags": [],
+      "ref_catalog_id": "0c24612b-2261-43b1-875e-e9307edaae48",
+      "ref_asset_id": "13a9d949-cde2-469a-834a-d6e18cc7b19a"
+    }
+  },
+  "attachments": []
+}

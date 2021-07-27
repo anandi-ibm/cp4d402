@@ -1,0 +1,36 @@
+{
+  "metadata": {
+    "name": "CensusIncome.csv_flow job",
+    "description": "",
+    "asset_type": "job",
+    "origin_country": "us",
+    "created_at": "2021-07-27T06:47:13Z",
+    "created": 1627368433588,
+    "asset_id": "job.CensusIncomecsvflowjob",
+    "asset_attributes": [
+      "job"
+    ]
+  },
+  "entity": {
+    "job": {
+      "asset_ref_type": "data_flow",
+      "configuration": {
+        "env_id": "spark30r-3c0d594b-50e7-4453-9e17-11868225a8ff",
+        "env_name": "Default Spark 3.0 & R 3.6",
+        "env_type": "default_spark",
+        "env_variables": []
+      },
+      "last_run_initiator": "None",
+      "last_run_time": "",
+      "last_run_status": "None",
+      "last_run_status_timestamp": 0,
+      "future_scheduled_runs": [],
+      "enable_notifications": true,
+      "project_name": "Anandii-new-GH-proj",
+      "asset_ref": "data_flow.CensusIncomecsvflow",
+      "schedule": "",
+      "schedule_info": null
+    }
+  },
+  "attachments": []
+}

@@ -1,0 +1,32 @@
+{
+  "metadata": {
+    "asset_type": "connection",
+    "name": "DB2 on cloud",
+    "origin_country": "us",
+    "rov": {
+      "mode": 0
+    },
+    "created_at": "2021-07-27T06:33:07Z",
+    "created": 1627367587318,
+    "asset_id": "connection.DB2oncloud",
+    "asset_attributes": [
+      "connection"
+    ]
+  },
+  "entity": {
+    "connection": {
+      "datasource_type": "506039fb-802f-4ef2-a2bf-c1682e9c8aa2",
+      "context": "source,target",
+      "properties": {
+        "database": "BLUDB",
+        "port": "50001",
+        "host": "dashdb-txn-sbox-yp-dal09-04.services.dal.bluemix.net",
+        "ssl": "true"
+      },
+      "flags": [
+        "personal_credentials"
+      ]
+    }
+  },
+  "attachments": []
+}

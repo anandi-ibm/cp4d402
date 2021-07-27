@@ -1,0 +1,111 @@
+{
+  "metadata": {
+    "name": "Amazon Redshift Test connection platform (shared) : /public/gosales",
+    "asset_type": "data_asset",
+    "description": "",
+    "origin_country": "none",
+    "tags": [
+      "connected-data"
+    ],
+    "created_at": "2021-07-27T06:13:26Z",
+    "created": 1627366406268,
+    "asset_id": "data_asset.AmazonRedshiftTestconnectionplatformsharedpublicgosales",
+    "asset_attributes": [
+      "data_asset"
+    ]
+  },
+  "entity": {
+    "data_asset": {
+      "dataset": true,
+      "mime_type": "application/octet-stream",
+      "columns": [
+        {
+          "name": "age",
+          "type": {
+            "type": "integer",
+            "length": 10,
+            "scale": 0,
+            "nullable": true,
+            "signed": true
+          }
+        },
+        {
+          "name": "sex",
+          "type": {
+            "type": "varchar",
+            "length": 4,
+            "scale": 0,
+            "nullable": true,
+            "signed": false
+          }
+        },
+        {
+          "name": "bp",
+          "type": {
+            "type": "varchar",
+            "length": 24,
+            "scale": 0,
+            "nullable": true,
+            "signed": false
+          }
+        },
+        {
+          "name": "cholesterol",
+          "type": {
+            "type": "varchar",
+            "length": 24,
+            "scale": 0,
+            "nullable": true,
+            "signed": false
+          }
+        },
+        {
+          "name": "na",
+          "type": {
+            "type": "double",
+            "length": 15,
+            "scale": 0,
+            "nullable": true,
+            "signed": true
+          }
+        },
+        {
+          "name": "k",
+          "type": {
+            "type": "double",
+            "length": 15,
+            "scale": 0,
+            "nullable": true,
+            "signed": true
+          }
+        },
+        {
+          "name": "drug",
+          "type": {
+            "type": "varchar",
+            "length": 20,
+            "scale": 0,
+            "nullable": true,
+            "signed": false
+          }
+        }
+      ]
+    }
+  },
+  "attachments": [
+    {
+      "asset_type": "data_asset",
+      "name": "gosales",
+      "description": "remote",
+      "connection_id": "connection.AmazonRedshiftTestconnectionplatformshared",
+      "connection_path": "/public/gosales",
+      "is_partitioned": false,
+      "mime": "application/octet-stream",
+      "created_at": "2021-07-27T06:13:26Z",
+      "id": "d3c4407f-437f-4223-b507-1b7db999a218",
+      "is_managed": false,
+      "is_referenced": false,
+      "is_remote": true
+    }
+  ]
+}

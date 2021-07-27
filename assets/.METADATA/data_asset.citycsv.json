@@ -1,0 +1,33 @@
+{
+  "metadata": {
+    "name": "city.csv",
+    "asset_type": "data_asset",
+    "origin_country": "us",
+    "created_at": "2021-07-27T06:06:46Z",
+    "created": 1627366006784,
+    "asset_id": "data_asset.citycsv",
+    "asset_attributes": [
+      "data_asset"
+    ]
+  },
+  "entity": {
+    "data_asset": {
+      "dataset": false,
+      "mime_type": "text/csv"
+    }
+  },
+  "attachments": [
+    {
+      "asset_type": "data_asset",
+      "name": "city.csv",
+      "mime": "text/csv",
+      "object_key": "data_asset/city.csv",
+      "object_key_is_read_only": true,
+      "created_at": "2021-07-27T06:06:47Z",
+      "id": "afd2725b-a852-4944-bba0-9a4ebeeb9a74",
+      "is_managed": false,
+      "is_referenced": true,
+      "is_remote": false
+    }
+  ]
+}

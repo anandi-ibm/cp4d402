@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "name": "Python 3.8 Script from Python Client 2",
+    "description": "used for scripts testing",
+    "asset_type": "script",
+    "origin_country": "us",
+    "asset_category": "USER",
+    "created_at": "2021-08-20T20:31:37Z",
+    "created": 1629491497100,
+    "asset_id": "script.Python38ScriptfromPythonClient2",
+    "asset_attributes": [
+      "script"
+    ]
+  },
+  "entity": {
+    "script": {
+      "ml_version": "4.0.0",
+      "language": {
+        "name": "python3"
+      },
+      "software_spec": {
+        "base_id": "ab9e1b80-f2ce-592c-a7d2-4f2344f77194"
+      }
+    }
+  },
+  "attachments": [
+    {
+      "asset_type": "script",
+      "name": "attachment_script.Python38ScriptfromPythonClient2",
+      "created_at": "2021-08-20T20:31:37Z",
+      "id": "324aed49-b70d-4f52-beb8-b91ef8d295b4",
+      "is_managed": true,
+      "is_referenced": false,
+      "is_remote": false,
+      "transfer_complete": true
+    }
+  ]
+}

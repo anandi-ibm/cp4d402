@@ -1,0 +1,33 @@
+{
+  "metadata": {
+    "name": "iris_keras_sequential.tar.gz",
+    "asset_type": "data_asset",
+    "origin_country": "us",
+    "created_at": "2021-08-23T17:29:35Z",
+    "created": 1629739775611,
+    "asset_id": "data_asset.iriskerassequentialtargz",
+    "asset_attributes": [
+      "data_asset"
+    ]
+  },
+  "entity": {
+    "data_asset": {
+      "dataset": false,
+      "mime_type": "application/x-gzip"
+    }
+  },
+  "attachments": [
+    {
+      "asset_type": "data_asset",
+      "name": "iris_keras_sequential.tar.gz",
+      "mime": "application/x-gzip",
+      "object_key": "data_asset/iris_keras_sequential.tar.gz",
+      "object_key_is_read_only": true,
+      "created_at": "2021-08-23T17:29:35Z",
+      "id": "8fec1b75-6d50-4ec0-b86d-994603c728e0",
+      "is_managed": false,
+      "is_referenced": true,
+      "is_remote": false
+    }
+  ]
+}

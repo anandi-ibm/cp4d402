@@ -1,0 +1,33 @@
+{
+  "metadata": {
+    "name": "go_daily_sales.csv",
+    "asset_type": "data_asset",
+    "origin_country": "us",
+    "created_at": "2021-08-20T04:38:46Z",
+    "created": 1629434326420,
+    "asset_id": "data_asset.godailysalescsv",
+    "asset_attributes": [
+      "data_asset"
+    ]
+  },
+  "entity": {
+    "data_asset": {
+      "dataset": false,
+      "mime_type": "text/csv"
+    }
+  },
+  "attachments": [
+    {
+      "asset_type": "data_asset",
+      "name": "go_daily_sales.csv",
+      "mime": "text/csv",
+      "object_key": "data_asset/go_daily_sales.csv",
+      "object_key_is_read_only": true,
+      "created_at": "2021-08-20T04:38:48Z",
+      "id": "281854f5-19d2-4291-a9f9-1c8490319fff",
+      "is_managed": false,
+      "is_referenced": true,
+      "is_remote": false
+    }
+  ]
+}

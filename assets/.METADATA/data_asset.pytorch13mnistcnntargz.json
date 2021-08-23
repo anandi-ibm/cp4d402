@@ -1,0 +1,33 @@
+{
+  "metadata": {
+    "name": "pytorch1_3_mnist_cnn.tar.gz",
+    "asset_type": "data_asset",
+    "origin_country": "us",
+    "created_at": "2021-08-23T21:30:02Z",
+    "created": 1629754202770,
+    "asset_id": "data_asset.pytorch13mnistcnntargz",
+    "asset_attributes": [
+      "data_asset"
+    ]
+  },
+  "entity": {
+    "data_asset": {
+      "dataset": false,
+      "mime_type": "application/x-gzip"
+    }
+  },
+  "attachments": [
+    {
+      "asset_type": "data_asset",
+      "name": "pytorch1_3_mnist_cnn.tar.gz",
+      "mime": "application/x-gzip",
+      "object_key": "data_asset/pytorch1_3_mnist_cnn.tar.gz",
+      "object_key_is_read_only": true,
+      "created_at": "2021-08-23T21:30:03Z",
+      "id": "21d13bed-026f-43c0-bb90-f4d825df516e",
+      "is_managed": false,
+      "is_referenced": true,
+      "is_remote": false
+    }
+  ]
+}

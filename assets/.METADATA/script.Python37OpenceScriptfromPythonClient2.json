@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "name": "Python 3.7 Opence Script from Python Client 2",
+    "description": "used for scripts testing",
+    "asset_type": "script",
+    "origin_country": "us",
+    "asset_category": "USER",
+    "created_at": "2021-08-20T20:24:03Z",
+    "created": 1629491043232,
+    "asset_id": "script.Python37OpenceScriptfromPythonClient2",
+    "asset_attributes": [
+      "script"
+    ]
+  },
+  "entity": {
+    "script": {
+      "ml_version": "4.0.0",
+      "language": {
+        "name": "python3"
+      },
+      "software_spec": {
+        "base_id": "c2057dd4-f42c-5f77-a02f-72bdbd3282c9"
+      }
+    }
+  },
+  "attachments": [
+    {
+      "asset_type": "script",
+      "name": "attachment_script.Python37OpenceScriptfromPythonClient2",
+      "created_at": "2021-08-20T20:24:03Z",
+      "id": "aa1faa15-6b8d-4ef6-998e-44189646d5c3",
+      "is_managed": true,
+      "is_referenced": false,
+      "is_remote": false,
+      "transfer_complete": true
+    }
+  ]
+}

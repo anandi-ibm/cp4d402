@@ -1,0 +1,32 @@
+{
+  "metadata": {
+    "name": "Shiny App From Python Client 1",
+    "description": "Test shiny app",
+    "asset_type": "shiny_asset",
+    "origin_country": "us",
+    "asset_category": "USER",
+    "created_at": "2021-08-20T20:24:11Z",
+    "created": 1629491051285,
+    "asset_id": "shiny_asset.ShinyAppFromPythonClient1",
+    "asset_attributes": [
+      "shiny_asset"
+    ]
+  },
+  "entity": {
+    "shiny_asset": {
+      "ml_version": "4.0.0"
+    }
+  },
+  "attachments": [
+    {
+      "asset_type": "shiny_asset",
+      "name": "attachment_shiny_asset.ShinyAppFromPythonClient1",
+      "created_at": "2021-08-20T20:24:11Z",
+      "id": "9e911822-a8e7-4d7f-8c60-8678921e1cdc",
+      "is_managed": true,
+      "is_referenced": false,
+      "is_remote": false,
+      "transfer_complete": true
+    }
+  ]
+}

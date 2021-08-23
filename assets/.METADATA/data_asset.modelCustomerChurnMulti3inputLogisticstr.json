@@ -1,0 +1,33 @@
+{
+  "metadata": {
+    "name": "modelCustomerChurnMulti3inputLogistic.str",
+    "asset_type": "data_asset",
+    "origin_country": "us",
+    "created_at": "2021-08-23T17:30:13Z",
+    "created": 1629739813799,
+    "asset_id": "data_asset.modelCustomerChurnMulti3inputLogisticstr",
+    "asset_attributes": [
+      "data_asset"
+    ]
+  },
+  "entity": {
+    "data_asset": {
+      "dataset": false,
+      "mime_type": "application/octet-stream"
+    }
+  },
+  "attachments": [
+    {
+      "asset_type": "data_asset",
+      "name": "modelCustomerChurnMulti3inputLogistic.str",
+      "mime": "application/octet-stream",
+      "object_key": "data_asset/modelCustomerChurnMulti3inputLogistic.str",
+      "object_key_is_read_only": true,
+      "created_at": "2021-08-23T17:30:14Z",
+      "id": "e92d570c-3327-4134-82bb-c846870bb797",
+      "is_managed": false,
+      "is_referenced": true,
+      "is_remote": false
+    }
+  ]
+}

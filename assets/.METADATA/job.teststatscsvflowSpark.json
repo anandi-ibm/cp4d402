@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "name": "teststats_csv_flow_Spark",
+    "description": "",
+    "asset_type": "job",
+    "origin_country": "us",
+    "created_at": "2021-08-24T23:33:57Z",
+    "created": 1629848037741,
+    "asset_id": "job.teststatscsvflowSpark",
+    "asset_attributes": [
+      "job"
+    ]
+  },
+  "entity": {
+    "job": {
+      "asset_ref_type": "data_flow",
+      "configuration": {
+        "env_id": "spark30r",
+        "env_name": "Default Spark 3.0 & R 3.6",
+        "env_type": "default_spark",
+        "env_variables": []
+      },
+      "last_run_initiator": "None",
+      "last_run_time": "",
+      "last_run_status": "None",
+      "last_run_status_timestamp": 0,
+      "future_scheduled_runs": [],
+      "enable_notifications": true,
+      "notification_types": {
+        "success": false,
+        "failure": false,
+        "warning": false
+      },
+      "retention_policy": {},
+      "project_name": "Anandi GH Proj",
+      "asset_ref": "data_flow.teststatscsvflow"
+    }
+  },
+  "attachments": []
+}

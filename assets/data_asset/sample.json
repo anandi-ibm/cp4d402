@@ -1,0 +1,18 @@
+{
+  "languages": [{
+      "id": "Japanese",
+      "sample": "テニス"
+    },
+    {
+      "id": "Chinese",
+      "sample": "网球"
+    },
+    {
+      "id": "Arabic",
+      "sample": "العَرَبِيَّة"
+    }
+  ],
+  "symbols": [{
+    "sym": "!@#$%^&*()_+"
+    }]
+}

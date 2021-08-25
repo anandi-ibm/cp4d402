@@ -1,0 +1,91 @@
+{
+  "metadata": {
+    "name": "Db2 on Cloud - platform : /LSM86818/patient.csv",
+    "asset_type": "data_asset",
+    "description": "",
+    "origin_country": "none",
+    "tags": [
+      "connected-data"
+    ],
+    "created_at": "2021-08-25T01:53:03Z",
+    "created": 1629856383548,
+    "asset_id": "data_asset.Db2onCloudplatformLSM86818patientcsv",
+    "asset_attributes": [
+      "data_asset"
+    ]
+  },
+  "entity": {
+    "data_asset": {
+      "dataset": true,
+      "mime_type": "text/csv",
+      "columns": [
+        {
+          "name": "PatientId",
+          "type": {
+            "type": "nvarchar",
+            "length": 1024,
+            "scale": 0,
+            "nullable": true,
+            "signed": false
+          }
+        },
+        {
+          "name": "AttributeName",
+          "type": {
+            "type": "nvarchar",
+            "length": 1024,
+            "scale": 0,
+            "nullable": true,
+            "signed": false
+          }
+        },
+        {
+          "name": "CommentType",
+          "type": {
+            "type": "nvarchar",
+            "length": 1024,
+            "scale": 0,
+            "nullable": true,
+            "signed": false
+          }
+        },
+        {
+          "name": "DepartmentName",
+          "type": {
+            "type": "nvarchar",
+            "length": 1024,
+            "scale": 0,
+            "nullable": true,
+            "signed": false
+          }
+        },
+        {
+          "name": "Comments",
+          "type": {
+            "type": "nvarchar",
+            "length": 1024,
+            "scale": 0,
+            "nullable": true,
+            "signed": false
+          }
+        }
+      ]
+    }
+  },
+  "attachments": [
+    {
+      "asset_type": "data_asset",
+      "name": "patient.csv",
+      "description": "remote",
+      "connection_id": "connection.Db2onCloudplatform",
+      "connection_path": "/LSM86818/patient.csv",
+      "is_partitioned": false,
+      "mime": "text/csv",
+      "created_at": "2021-08-25T01:53:03Z",
+      "id": "7201280a-6c8c-4255-9c95-305da47c520d",
+      "is_managed": false,
+      "is_referenced": false,
+      "is_remote": true
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "metadata": {
+    "name": "customer_dbase.sav",
+    "asset_type": "data_asset",
+    "origin_country": "us",
+    "created_at": "2021-08-24T22:35:25Z",
+    "created": 1629844525061,
+    "asset_id": "data_asset.customerdbasesav",
+    "asset_attributes": [
+      "data_asset"
+    ]
+  },
+  "entity": {
+    "data_asset": {
+      "dataset": false,
+      "mime_type": "application/x-vnd.spss-statistics-data"
+    }
+  },
+  "attachments": [
+    {
+      "asset_type": "data_asset",
+      "name": "customer_dbase.sav",
+      "mime": "application/x-vnd.spss-statistics-data",
+      "object_key": "data_asset/customer_dbase.sav",
+      "object_key_is_read_only": true,
+      "created_at": "2021-08-24T22:35:25Z",
+      "id": "46aeb103-ac0d-4793-832e-3f67de6b035e",
+      "is_managed": false,
+      "is_referenced": true,
+      "is_remote": false
+    }
+  ]
+}

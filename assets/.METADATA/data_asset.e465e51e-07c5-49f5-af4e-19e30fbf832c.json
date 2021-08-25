@@ -1,0 +1,33 @@
+{
+  "metadata": {
+    "name": "网球.csv",
+    "asset_type": "data_asset",
+    "origin_country": "us",
+    "created_at": "2021-08-24T22:35:05Z",
+    "created": 1629844505271,
+    "asset_id": "data_asset.e465e51e-07c5-49f5-af4e-19e30fbf832c",
+    "asset_attributes": [
+      "data_asset"
+    ]
+  },
+  "entity": {
+    "data_asset": {
+      "dataset": false,
+      "mime_type": "text/csv"
+    }
+  },
+  "attachments": [
+    {
+      "asset_type": "data_asset",
+      "name": "网球.csv",
+      "mime": "text/csv",
+      "object_key": "data_asset/网球.csv",
+      "object_key_is_read_only": true,
+      "created_at": "2021-08-24T22:35:06Z",
+      "id": "45045982-042f-4c3b-a193-9424b62c5503",
+      "is_managed": false,
+      "is_referenced": true,
+      "is_remote": false
+    }
+  ]
+}

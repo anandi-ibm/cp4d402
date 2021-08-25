@@ -1,0 +1,33 @@
+{
+  "metadata": {
+    "name": "customer_history.avro",
+    "asset_type": "data_asset",
+    "origin_country": "us",
+    "created_at": "2021-08-24T22:35:20Z",
+    "created": 1629844520455,
+    "asset_id": "data_asset.customerhistoryavro",
+    "asset_attributes": [
+      "data_asset"
+    ]
+  },
+  "entity": {
+    "data_asset": {
+      "dataset": false,
+      "mime_type": "application/octet-stream"
+    }
+  },
+  "attachments": [
+    {
+      "asset_type": "data_asset",
+      "name": "customer_history.avro",
+      "mime": "application/octet-stream",
+      "object_key": "data_asset/customer_history.avro",
+      "object_key_is_read_only": true,
+      "created_at": "2021-08-24T22:35:20Z",
+      "id": "6295b267-e204-4590-9811-cf9d2c961d62",
+      "is_managed": false,
+      "is_referenced": true,
+      "is_remote": false
+    }
+  ]
+}

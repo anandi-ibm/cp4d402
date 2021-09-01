@@ -1,0 +1,33 @@
+{
+  "metadata": {
+    "asset_type": "connection",
+    "name": "Apache Cassandra",
+    "origin_country": "us",
+    "rov": {
+      "mode": 0
+    },
+    "asset_category": "USER",
+    "created_at": "2021-08-31T05:48:12Z",
+    "created": 1630388892740,
+    "asset_id": "connection.ApacheCassandra",
+    "asset_attributes": [
+      "connection"
+    ]
+  },
+  "entity": {
+    "connection": {
+      "datasource_type": "e6ff8c10-4199-4b58-9a93-749411eafacd",
+      "context": "source,target",
+      "properties": {
+        "keyspace": "conndb",
+        "port": "9042",
+        "host": "con05c1.fyre.ibm.com",
+        "ssl": "false"
+      },
+      "flags": [
+        "personal_credentials"
+      ]
+    }
+  },
+  "attachments": []
+}

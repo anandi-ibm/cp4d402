@@ -1,0 +1,112 @@
+{
+  "metadata": {
+    "name": "Amazon RDS for MySQL : /conndb/Drug1N",
+    "asset_type": "data_asset",
+    "description": "",
+    "origin_country": "none",
+    "tags": [
+      "connected-data"
+    ],
+    "asset_category": "USER",
+    "created_at": "2021-08-31T15:12:26Z",
+    "created": 1630422746118,
+    "asset_id": "data_asset.AmazonRDSforMySQLconndbDrug1N",
+    "asset_attributes": [
+      "data_asset"
+    ]
+  },
+  "entity": {
+    "data_asset": {
+      "dataset": true,
+      "mime_type": "application/octet-stream",
+      "columns": [
+        {
+          "name": "Age",
+          "type": {
+            "type": "bigint",
+            "length": 19,
+            "scale": 0,
+            "nullable": true,
+            "signed": true
+          }
+        },
+        {
+          "name": "Sex",
+          "type": {
+            "type": "varchar",
+            "length": 255,
+            "scale": 0,
+            "nullable": true,
+            "signed": false
+          }
+        },
+        {
+          "name": "BP",
+          "type": {
+            "type": "varchar",
+            "length": 255,
+            "scale": 0,
+            "nullable": true,
+            "signed": false
+          }
+        },
+        {
+          "name": "Cholesterol",
+          "type": {
+            "type": "varchar",
+            "length": 255,
+            "scale": 0,
+            "nullable": true,
+            "signed": false
+          }
+        },
+        {
+          "name": "Na",
+          "type": {
+            "type": "decimal",
+            "length": 31,
+            "scale": 6,
+            "nullable": true,
+            "signed": true
+          }
+        },
+        {
+          "name": "K",
+          "type": {
+            "type": "decimal",
+            "length": 31,
+            "scale": 6,
+            "nullable": true,
+            "signed": true
+          }
+        },
+        {
+          "name": "Drug",
+          "type": {
+            "type": "varchar",
+            "length": 255,
+            "scale": 0,
+            "nullable": true,
+            "signed": false
+          }
+        }
+      ]
+    }
+  },
+  "attachments": [
+    {
+      "asset_type": "data_asset",
+      "name": "Drug1N",
+      "description": "remote",
+      "connection_id": "connection.AmazonRDSforMySQL",
+      "connection_path": "/conndb/Drug1N",
+      "is_partitioned": false,
+      "mime": "application/octet-stream",
+      "created_at": "2021-08-31T15:12:26Z",
+      "id": "b90fb861-4fc3-48ef-83f4-b33bf8ef05d7",
+      "is_managed": false,
+      "is_referenced": false,
+      "is_remote": true
+    }
+  ]
+}

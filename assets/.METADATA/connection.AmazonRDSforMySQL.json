@@ -1,0 +1,33 @@
+{
+  "metadata": {
+    "asset_type": "connection",
+    "name": "Amazon RDS for MySQL",
+    "origin_country": "us",
+    "rov": {
+      "mode": 0
+    },
+    "asset_category": "USER",
+    "created_at": "2021-08-31T03:29:44Z",
+    "created": 1630380584529,
+    "asset_id": "connection.AmazonRDSforMySQL",
+    "asset_attributes": [
+      "connection"
+    ]
+  },
+  "entity": {
+    "connection": {
+      "datasource_type": "9aa630f2-efc4-4d54-b8cb-254f31405b78",
+      "context": "source,target",
+      "properties": {
+        "database": "conndb",
+        "port": "3306",
+        "host": "rds-mysqltestdb.ctv8r0hhzxks.us-west-2.rds.amazonaws.com",
+        "ssl": "true"
+      },
+      "flags": [
+        "personal_credentials"
+      ]
+    }
+  },
+  "attachments": []
+}

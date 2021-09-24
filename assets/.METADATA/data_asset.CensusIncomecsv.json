@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "name": "CensusIncome.csv",
+    "asset_type": "data_asset",
+    "origin_country": "us",
+    "asset_category": "USER",
+    "created_at": "2021-09-24T06:35:55Z",
+    "created": 1632465355057,
+    "asset_id": "data_asset.CensusIncomecsv",
+    "asset_attributes": [
+      "data_asset"
+    ]
+  },
+  "entity": {
+    "data_asset": {
+      "dataset": false,
+      "mime_type": "text/csv"
+    }
+  },
+  "attachments": [
+    {
+      "asset_type": "data_asset",
+      "name": "CensusIncome.csv",
+      "mime": "text/csv",
+      "object_key": "data_asset/CensusIncome.csv",
+      "object_key_is_read_only": true,
+      "created_at": "2021-09-24T06:35:55Z",
+      "id": "a60c2985-05af-472b-8f16-e43a024ec163",
+      "is_managed": false,
+      "is_referenced": true,
+      "is_remote": false
+    }
+  ]
+}

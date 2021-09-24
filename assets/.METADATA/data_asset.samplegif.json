@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "name": "sample.gif",
+    "asset_type": "data_asset",
+    "origin_country": "us",
+    "asset_category": "USER",
+    "created_at": "2021-09-24T05:49:40Z",
+    "created": 1632462580162,
+    "asset_id": "data_asset.samplegif",
+    "asset_attributes": [
+      "data_asset"
+    ]
+  },
+  "entity": {
+    "data_asset": {
+      "dataset": false,
+      "mime_type": "image/gif"
+    }
+  },
+  "attachments": [
+    {
+      "asset_type": "data_asset",
+      "name": "sample.gif",
+      "mime": "image/gif",
+      "object_key": "data_asset/sample.gif",
+      "object_key_is_read_only": true,
+      "created_at": "2021-09-24T05:49:41Z",
+      "id": "97a1c35a-f518-44f0-b7a6-13ff8be3705a",
+      "is_managed": false,
+      "is_referenced": true,
+      "is_remote": false
+    }
+  ]
+}
